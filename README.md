@@ -10,7 +10,7 @@
                   
     def hello(self):
     print('''
-    👀 I’m interested in on: Improving my scripts languajes skills, focus on Python(Flask y Django), Java, HTML5, CSS3, JS
+    👀 I’m interested in on: Improving my scripts languajes skills, focus on React, Angular, React Native, .Net, NodeJS, SQL
     🌱 I’m currently learning: English in a higher level that is conversation level,
     💞️ I’m looking to collaborate on: web development projects firstly then we will see,
     😔 I’m looking for help with: Java
